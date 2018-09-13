@@ -3,3 +3,14 @@ img{
     margin: auto auto;
     border: 5px solid blue;
 }
+table, th, td{
+    border: solid black 2px;
+    text-align: center;
+    border-collapse: collapse;
+}
+.lightgray{
+    background-color: lightgray;
+}
+.lightblue{
+    background-color: lightblue;
+}
